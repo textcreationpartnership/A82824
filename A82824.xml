@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the Lords and Commons in Parliament, sent to His Majestie at York. Concerning the removall of His Majesties arms, cannon, and ammunition, in his magazin at Hull. And the taking off the reprive of six condemned priests, prisoners in Newgate. With His Majesties answer thereunto. 14. April. 1642.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82824</idno>
+            <idno type="STC">Wing E1582</idno>
+            <idno type="STC">Thomason E144_11</idno>
+            <idno type="STC">ESTC R11025</idno>
+            <idno type="EEBO-CITATION">99858924</idno>
+            <idno type="PROQUEST">99858924</idno>
+            <idno type="VID">110984</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82824)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110984)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E144[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the Lords and Commons in Parliament, sent to His Majestie at York. Concerning the removall of His Majesties arms, cannon, and ammunition, in his magazin at Hull. And the taking off the reprive of six condemned priests, prisoners in Newgate. With His Majesties answer thereunto. 14. April. 1642.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I).</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Barker, Printer to the Kings most Excellent Majestie: And by the Assignes of John Bill,</publisher>
+                  <pubPlace>York :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also published with title: Humble petition of the Lords and Commons to the King for leave to remove the magazine at Hull to the Tower of London.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110984:1"/>
+            <!-- PDF PAGE 99 -->
+            <pb facs="tcp:110984:1"/>
+            <!-- PDF PAGE 99 -->
+            <p>The humble PETITION OF The Lords and Commons in PARLIAMENT, Sent to His MAJESTIE at YORK.</p>
+            <p>Concerning the Removall of His Majeſties Arms, Cannon, and Ammunition, in His Magazin at Hull.</p>
+            <p>And the taking off the Reprive of ſix condemned Prieſts, priſoners in Newgate.</p>
+            <p>With His Majeſties Anſwer thereunto. 14. April. 1642.</p>
+            <p>YORK: Printed by ROBERT BARKER, Printer to the Kings moſt Excellent Majeſtie: And by the Aſſignes of JOHN BILL. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:110984:2"/>
+            <!-- PDF PAGE 100 -->
+            <pb n="1" facs="tcp:110984:2"/>
+            <!-- PDF PAGE 100 -->
+            <head>TO THE KINGS <hi>MOST EXCELLENT</hi> MAJESTIE.</head>
+            <head type="sub">The humble Petition of the Lords and Commons Aſſembled in Parliament.</head>
+            <opener>
+               <salute>Moſt Gracious Soveraign,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our moſt dutifull and loyall Subjects, the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament Aſſem<g ref="char:EOLhyphen"/>bled, finding the ſtores of Arms and Ammunition in the Tower of <hi>London</hi> much diminiſhed, And that the neceſſitie of Supplies for Your Majeſties Kingdom of <hi>Ireland</hi> (for which they have been iſſued from thence) daily in<g ref="char:EOLhyphen"/>creaſeth, And that the occaſion for which the Magazin was placed at <hi>Hull</hi> is now taken away, And conſidering it will be
+<pb n="2" facs="tcp:110984:3"/>
+               <!-- PDF PAGE 101 -->kept here with leſſe charge and more ſafety, and tranſported hence with much more convenience for the ſervice of the Kingdom of <hi>Ireland;</hi>
+            </p>
+            <p>They therefore humbly pray, That Your Majeſtie will be graciouſly pleaſed to give leave that the ſaid Arms, Cannon, and Ammunition, now in Magazin at <hi>Hull,</hi> may be removed to the Tower of <hi>London,</hi> according as ſhall be directed by both Your Houſes of Parliament.</p>
+            <p>And whereas ſix Prieſts, now in <hi>New<g ref="char:EOLhyphen"/>gate,</hi> are condemned to die, and by Your Majeſtie have been reprived;</p>
+            <p>They humbly pray Your Majeſtie to be pleaſed, that the ſaid Reprive may be taken off, and the ſaid Prieſts executed ac<g ref="char:EOLhyphen"/>cording to Law.</p>
+         </div>
+         <div type="answer">
+            <pb n="3" facs="tcp:110984:3"/>
+            <!-- PDF PAGE 101 -->
+            <head>His Majeſties Anſwer to the aforeſaid Petition.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E rather expected (and have done ſo long) that you ſhould have given Vs an Accompt why a Gariſon hath been placed in Our Town of <hi>Hull,</hi> with<g ref="char:EOLhyphen"/>out Our conſent, and Souldiers billeted there againſt Law, and ex<g ref="char:EOLhyphen"/>preſſe words of the Petition of Right, then to be moved (for the a<g ref="char:EOLhyphen"/>voiding of a needleſſe charge you have put on your ſelves) to give Our conſent for the Removall of Our Magazin and Munition (Our own proper goods) upon ſuch gene<g ref="char:EOLhyphen"/>rall Reaſons as indeed give no ſa<g ref="char:EOLhyphen"/>tisfaction to Our Iudgement. And ſince ye have made the buſi<g ref="char:EOLhyphen"/>neſſe
+<pb n="4" facs="tcp:110984:4"/>
+               <!-- PDF PAGE 102 -->of <hi>Hull</hi> your Argument, We would gladly be informed, Why Our own Inclination (on the ge<g ref="char:EOLhyphen"/>nerall Rumour of the Deſignes of Papiſts in the Northern parts) was not thought ſufficient ground for Vs to put a Perſon of Honour, Fortune, and unblemiſhed Reputa<g ref="char:EOLhyphen"/>tion, into a Town and Fort of Our own, where Our own Magazin lay, and yet the ſame Rumour be Warrant enough for you to com<g ref="char:EOLhyphen"/>mit the ſame Town and Fort (with<g ref="char:EOLhyphen"/>out Our conſent) to the hands of Sir <hi>John Hotham,</hi> with a power un<g ref="char:EOLhyphen"/>agreeable to the Law of the Land, or the Liberty of the Subject: And yet of this, in point of Right or Pri<g ref="char:EOLhyphen"/>viledge (for ſure We are not with<g ref="char:EOLhyphen"/>out Priviledge too) We have not all this while complained. And being confident that that place (whatſo<g ref="char:EOLhyphen"/>ever diſcourſe there is of publique or private inſtructions to the contra<g ref="char:EOLhyphen"/>ry) ſhall be ſpeedily given vp, if We
+<pb n="5" facs="tcp:110984:4"/>
+               <!-- PDF PAGE 102 -->ſhall require it, We ſhalbe contented to diſpoſe Our Munition there (as We have done in other places) for the publique eaſe and benefit, as vpon particular advice We ſhall finde convenient, though We cannot think it fit, or conſent, that the whole Magazin be removed toge<g ref="char:EOLhyphen"/>ther; but when you ſhall agree up<g ref="char:EOLhyphen"/>on ſuch Proportions as ſhall be held neceſſary for any particular ſervice, We ſhall ſigne ſuch Warrants as ſhall be agreeable to wiſdom and Reaſon: And if any of them be de<g ref="char:EOLhyphen"/>ſigned for <hi>Ulſter</hi> or <hi>Leinſter,</hi> you know well the conveyance will be more eaſie and convenient from the place they are now in: Yet We muſt tell you, That if the Fears are ſo great from the Papiſts at home, or of for<g ref="char:EOLhyphen"/>reign Force (as is pretended) it ſeems ſtrange that you make not proviſion of Arms and Munition, for defence of this Kingdom, rather then ſeek to carry any more from
+<pb n="6" facs="tcp:110984:5"/>
+               <!-- PDF PAGE 103 -->hence, without ſome courſe taken for ſupply, eſpecially if ye remem<g ref="char:EOLhyphen"/>ber your ingagement to Our Scots Subjects, for that proportion of Arms which is contained in your Treaty. We ſpeak not this, as not thinking the ſending of Arms to <hi>Scotland</hi> very neceſſary, but onely for the way of the Proviſion; for you know what great quantities We have aſſigned out of Our ſeverall Stores, which, in due time, We hope, you wil ſee repleniſhed. For the charge of looking to the Magazin at <hi>Hull,</hi> as it was undertaken vo<g ref="char:EOLhyphen"/>luntarily by you at firſt, and (to ſay no more) unneceſſarily, ſo you may free Our good People of that charge, and leave it to Vs, who are the proper Owner of it.</p>
+            <p>And this, We hope, will give you full ſatiſfaction in this point, and that ye do not, as ye have done in the buſineſſe of the <hi>Militia,</hi> ſend this Meſſage out of Complement and
+<pb n="7" facs="tcp:110984:5"/>
+               <!-- PDF PAGE 103 -->Ceremony, reſolving to be your own Carvers at laſt; For We muſt tell you, if any Attempt or Dire<g ref="char:EOLhyphen"/>ction ſhall be made or given in this Matter, without Our Conſent or Approbation, We ſhall eſteem it as an Act of Violence againſt Vs, and declare it to all the World, as the greateſt violation of Our Right, and breach of Our Priviledge.</p>
+            <p>Concerning the ſix Prieſts con<g ref="char:EOLhyphen"/>demned; Tis true, they were re<g ref="char:EOLhyphen"/>prieved by Our Warrant, being in<g ref="char:EOLhyphen"/>formed that they were (by ſome re<g ref="char:EOLhyphen"/>ſtraint) diſabled to take the benefit of Our former Proclamation; ſince that, We have iſſued out another, for the due execution of the Laws againſt Papiſts, and have moſt ſo<g ref="char:EOLhyphen"/>lemnly promiſed, In the Word of a King, <hi>Never to pardon any Prieſt (with<g ref="char:EOLhyphen"/>out your conſent) which ſhall be found guilty by Law, deſiring to baniſh theſe,</hi> having herewith ſent a Warrant to that purpoſe, if (upon ſecond
+<pb n="8" facs="tcp:110984:6"/>
+               <!-- PDF PAGE 104 -->thoughts) ye do not diſapprove thereof. But if you think the exe<g ref="char:EOLhyphen"/>cution of theſe perſons ſo very ne<g ref="char:EOLhyphen"/>ceſſary to the great and pious work of Reformation, We refer it whol<g ref="char:EOLhyphen"/>ly to you, declaring hereby, That upon ſuch your reſolution ſignified to the Miniſters of Iuſtice, Our Warrant for their Reprieve is de<g ref="char:EOLhyphen"/>termined, and the Law to have the courſe.</p>
+            <p>And now let Vs aſk you (for We are willing to huſband time, and to diſpatch as much as may be under one Meſſage; God knows, the di<g ref="char:EOLhyphen"/>ſtractions of this Kingdom wants a preſent remedy) Will there never be a time to offer to, as well as to aſke of Vs? We will propoſe no more particulars to you, having no luck to pleaſe, to be underſtood by you. Take your own time for what concerns Our particular; But be ſure ye have an early ſpeedy care of the Publique (that is) of the onely
+<pb n="9" facs="tcp:110984:6"/>
+               <!-- PDF PAGE 104 -->rule which preſerves the Publique, The Law of the Land; Preſerve the Dignitie and reverence due to that. 'Twas well ſaid in a ſpeech made by a private perſon, but publiſhed by Order of the Houſe of Commons, this Parliament:<note place="margin">It was part of Pyms ſpeech a<g ref="char:EOLhyphen"/>gainſt the Earle of Strafford.</note> 
+               <hi>The Law is that which puts a difference betwixt Good and Evill, betwixt Juſt and Unjuſt; if you take away the Law all things will fall into a Confuſion, every man will become a Law to himſelf, which, in the depraved condition of humane Nature, muſt needs produce many great Enormities; Luſt will become a Law, and Envy will become a Law, Covetouſneſſe and Ambition will become Laws, and what Dictates what Deciſions ſuch Laws will produce, may eaſily be diſcerned.</hi> So ſaid that Gentleman, and much more, very well in defence of the Law, and a<g ref="char:EOLhyphen"/>gainſt Arbitrary power; 'Tis worth looking over and conſidering. And if the moſt zealous Defence of true Proteſtant Profeſſion, &amp; the moſt re<g ref="char:EOLhyphen"/>ſolved
+<pb n="10" facs="tcp:110984:7"/>
+               <!-- PDF PAGE 105 -->protection of the Law, be the moſt neceſſary Duty of a Prince, We cannot beleeve this miſerable Diſtance and Miſ-underſtanding can be long continued betwixt Vs, We having often and earneſtly de<g ref="char:EOLhyphen"/>clared them to be the chiefeſt De<g ref="char:EOLhyphen"/>ſires of Our Soul, and the end and rule of all Our Actions.</p>
+            <p>For <hi>Ireland,</hi> We have ſufficiently, and (We hope) ſatiſfactorily expreſ<g ref="char:EOLhyphen"/>ſed to all Our good Subjects, Our hearty ſenſe of that ſad buſineſſe in Our ſeverall Meſſages in that Ar<g ref="char:EOLhyphen"/>gument; but eſpecially in Our laſt of the eighth of this Moneth, con<g ref="char:EOLhyphen"/>cerning Our Reſolution for that Service; for the ſpeedy, Honoura<g ref="char:EOLhyphen"/>ble, and full performance whereof, We conjure you to yeeld all poſſible Aſſiſtance and preſent Advice.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:110984:7"/>
+            <!-- PDF PAGE 105 -->
+         </div>
+      </body>
+   </text>
+</TEI>
